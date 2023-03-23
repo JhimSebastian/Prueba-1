@@ -7,5 +7,5 @@ Este proyecto esta desarrollado para la Universidad Continental**
 | Header | Title |
 | Paragraph | Text |
 
-![alt text](image.jpg)
+![alt text](https://ucontinental.edu.pe/www/wp-content/uploads/2022/02/unicontinental.jpg)
 
